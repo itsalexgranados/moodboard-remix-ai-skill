@@ -1,0 +1,15 @@
+{
+  "name": "moodboard-remix",
+  "description": "AI moodboard skill for UX/UI design in Claude Code: explore real themes, components and templates, preview them on your own product and rebuild the pick in your code.",
+  "owner": {
+    "name": "Alex Granados",
+    "url": "https://alexgranados.com"
+  },
+  "plugins": [
+    {
+      "name": "moodboard-remix",
+      "source": "./plugins/moodboard-remix",
+      "description": "Proposes 4 site templates, 5 components per feature or 5 themes from 21st.dev, React Bits and Uiverse, previews them on your real UI and rebuilds the chosen one in your stack."
+    }
+  ]
+}

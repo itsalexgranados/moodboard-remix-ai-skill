@@ -1,0 +1,13 @@
+{
+  "name": "moodboard-remix",
+  "version": "1.0.0",
+  "description": "AI moodboard skill for UX/UI design: explores real themes, components and templates (21st.dev, React Bits, Uiverse), previews them on your own product and rebuilds the chosen one in your code, so your project doesn't look AI-generated.",
+  "author": {
+    "name": "Alex Granados",
+    "url": "https://alexgranados.com"
+  },
+  "homepage": "https://github.com/itsalexgranados/moodboard-remix-ai-skill",
+  "repository": "https://github.com/itsalexgranados/moodboard-remix-ai-skill",
+  "license": "MIT",
+  "keywords": ["moodboard", "ui-design", "ux-design", "design-system", "themes", "components", "templates", "shadcn", "tailwind", "21st-dev", "react-bits", "uiverse", "claude-code", "agent-skills"]
+}
